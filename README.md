@@ -1,5 +1,5 @@
 # SQUARE WITH GRAVITY
-A game for the EMF 2016 badge (work in progress)
+A game for the EMF 2016 badge
 
 Coloful squares are falling down, but the ground is not always the same. Use the orientation of the badge to change the background color and erase the squares before it is too late! 
 
